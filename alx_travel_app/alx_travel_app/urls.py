@@ -23,11 +23,11 @@ from rest_framework import permissions
 # Schema view for Swagger documentation
 schema_view = get_schema_view(
     openapi.Info(
-        title="KoGidi API",
+        title="ALX Travel App API",
         default_version='v1',
-        description="API documentation for KoGidi Learning Management System",
-        terms_of_service="https://www.kogidi.com/terms/",
-        contact=openapi.Contact(email="contact@kogidi.com"),
+        description="ALX ProDev Backend Cohort 3 • API",
+        terms_of_service="https://dohoudanielfavour.vercel.app",
+        contact=openapi.Contact(email="dohoudanielfavour@gmail.com"),
         license=openapi.License(name="BSD License"),
     ),
     public=True,
