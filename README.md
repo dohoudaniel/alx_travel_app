@@ -1,2 +1,1 @@
-# alx_travel_app
-The ALX Travel Application | ALX ProDev Backend
+The ALX Travel App.
